@@ -4,3 +4,6 @@ Text text text
 
 New paragraph
 
+*First
+*Second
+*Third item
